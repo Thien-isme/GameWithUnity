@@ -1,0 +1,17 @@
+# Bỏ mọi Library, Temp, Build, v.v. trong TẤT CẢ game con
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Uu]serSettings/
+
+# File IDE / build
+**/.vs/
+**/*.csproj
+**/*.sln
+**/*.user
+**/*.unitypackage
+**/*.apk
+**/*.aab
